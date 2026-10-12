@@ -22,7 +22,7 @@ Everything you will need to find out (Help, etc...) is in HamOS. Otherwise, pela
 
 
 ### Visit at:
-https://lkspodmol.github.io/myos1/
+https://lkspodmol.github.io/hamos/
 
 https://stardance.hackclub.com/projects/30933
 

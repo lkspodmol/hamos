@@ -1,7 +1,7 @@
 <img width="1225" height="196" alt="obrazek" src="https://github.com/user-attachments/assets/7027a112-a7fb-47cb-81ea-015d862de313" />
 
 
-# myos1 (now myos2)
+# HamOS (myos2)
 ### My first project for https://stardance.hackclub.com
 
 

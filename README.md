@@ -12,12 +12,13 @@
 This is HamOS (Not ham, but ham-ster) (https://jams.hackclub.com/batch/webOS), that will be about my hamster Džambule.
 
 You somehow found a way to get into Džambulas computer and you are now exploring it, playing with it and testing it or what ever you want.
-Everything you will need to find out (Help, etc...) is in HamOS. Otherwise, pelase comment under one of my devlogs on stardance.
+Everything you will need to find out (Help, etc...) is in HamOS. Otherwise, please comment under one of my devlogs on stardance.
 
 
 
 ### Very very special features of HamOS:
 - Find out yourself you lazy
+- my hamster 😆
 
 
 

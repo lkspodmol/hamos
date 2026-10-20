@@ -118,6 +118,8 @@ button.addEventListener("click", () => {
     if (powerOn) {
         iframe.src = iframe.src;
         sound.play();
+        sound.volume = 0.5;
+        sound2.volume = 0.5;
         setTimeout(() => {
             onLed.style.visibility = "visible";
         }, 200);
